@@ -1,5 +1,7 @@
 # Model description for Flux-Super-Portrait-LoRA
 
+![CC1.png](images/iVSjno0XDOpWWxIxsB_ua.png)
+
 Image Processing Parameters 
 
 | Parameter                 | Value  | Parameter                 | Value  |

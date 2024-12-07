@@ -1,5 +1,4 @@
 # Model description for Flux-Super-Portrait-LoRA
-![CC1.png](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/OQkdEnSefpRhliGZ4VdlB.png)
 
 Image Processing Parameters 
 

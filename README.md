@@ -2,6 +2,20 @@
 
 ![CC1.png](images/iVSjno0XDOpWWxIxsB_ua.png)
 
+## Image Gallery
+
+<p align="center">
+  <img src="images/1.png" width="30%" alt="Image 1">
+  <img src="images/2.png" width="30%" alt="Image 2">
+  <img src="images/3.png" width="30%" alt="Image 3">
+</p>
+<p align="center">
+  <img src="images/4.png" width="30%" alt="Image 4">
+  <img src="images/5.png" width="30%" alt="Image 5">
+  <img src="images/6.png" width="30%" alt="Image 6">
+</p>
+
+
 Image Processing Parameters 
 
 | Parameter                 | Value  | Parameter                 | Value  |
